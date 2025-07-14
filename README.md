@@ -1,6 +1,6 @@
 # CIFAR-10 Image Classification with TensorFlow 🚀
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Mo-kw/cifar10-image-classification-tensorflow/blob/main/Image_Classification_on_CIFAR_100_with_TensorFlow.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Mo-kw/cifar10-image-classification-tensorflow/blob/main/Image_Classification_on_CIFAR_10_with_TensorFlow.ipynb)
 
 
 
