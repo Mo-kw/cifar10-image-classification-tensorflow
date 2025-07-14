@@ -1,6 +1,8 @@
 # CIFAR-10 Image Classification with TensorFlow 🚀
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Mo-kw/cifar10-image-classification-tensorflow/blob/main/Image_Classification_on_CIFAR_100_with_TensorFlow.ipynb)
+
+
 
 This project demonstrates how to train and evaluate a Convolutional Neural Network (CNN) using TensorFlow to classify images from the CIFAR-10 dataset. It includes training, evaluation, visualization, and prediction on real images — and is fully runnable in **Google Colab**.
 
